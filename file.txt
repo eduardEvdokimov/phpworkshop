@@ -1,0 +1,6 @@
+arrays	    constants	generators   magic	postgresql    variables
+autoload    errors	html	     methods	redis
+buildin     exceptions	inheritance  namespace	start
+classes     file.txt	interfaces   operators	strings
+composer    filters	iterators    patterns	superglobals
+conditions  functions	loops	     pdo	traits
